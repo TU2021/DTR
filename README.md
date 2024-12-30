@@ -6,7 +6,11 @@ Code for "In-Dataset Trajectory Return Regularization for Offline Preference-bas
 
 We proposed In-Dataset Trajectory Return Regularization (DTR) for offline preference-based reinforcement learning (PbRL). DTR addresses reward bias challenges in trajectory-level preference feedback by combining Conditional Sequence Modeling (CSM) and TD-Learning (TDL). Key features include balancing in-dataset trajectory returns with optimal action selection and employing ensemble normalization for robust reward estimation. Experimental results demonstrate DTR's superior performance over state-of-the-art baselines.
 
-![DTR Framework](fig\dtr.png)
+<p align="center">
+    <br>
+    <img src="fig/dtr.png"/>
+    <br>
+<p>
 
 ---
 
